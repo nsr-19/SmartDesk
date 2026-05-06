@@ -1,0 +1,164 @@
+[
+  {
+    "id": "HR-001",
+    "category": "Leave Policy",
+    "question": "How many casual leaves do I get per year?",
+    "answer": "NovaTech provides 12 casual leaves (CL) per calendar year to all confirmed full-time employees. CLs accrue at 1 day per month. Key rules: CLs cannot be taken for more than 3 consecutive days at a time. CLs cannot be carried forward to the next calendar year — unused CLs lapse on December 31st. CLs are not encashable upon separation. Apply for CL via Workday at least 2 days in advance (1 day for emergencies with manager approval). CLs cannot be clubbed with earned leave without prior manager approval. Probationary employees are eligible for CLs from Day 1."
+  },
+  {
+    "id": "HR-002",
+    "category": "Leave Policy",
+    "question": "How many sick leaves do I get? Can I carry them forward?",
+    "answer": "NovaTech provides 8 sick leaves (SL) per calendar year. SLs are credited in full on January 1st each year. Key rules: For absences of 3 or more consecutive sick days, a medical certificate from a registered medical practitioner must be submitted to HR within 3 days of returning. SLs can be used for personal illness, medical appointments, or caring for an immediate family member (spouse, child, parent). Unused SLs can be carried forward up to a maximum of 15 days. SLs beyond the 15-day cap lapse. SLs are NOT encashable upon separation. Notify your manager before your shift starts and log it in Workday within 48 hours."
+  },
+  {
+    "id": "HR-003",
+    "category": "Leave Policy",
+    "question": "What is the earned leave (EL) or privilege leave policy?",
+    "answer": "NovaTech provides 15 earned leaves (EL) per calendar year, accrued at 1.25 days per month. Eligibility: You must complete 1 year of service to begin using ELs (accrual starts from Day 1 but usage starts after confirmation). Key rules: ELs must be applied for at least 5 business days in advance (2 weeks for requests of 5+ consecutive days). Maximum 10 consecutive EL days in a single block. Carry-forward: Up to 30 days can be carried to the next year. ELs exceeding 30 days are auto-encashed at basic salary rate in January. Upon separation: Unused EL balance (up to 30 days) is encashed in the final settlement. Manager approval required. Blackout periods may apply during quarter-end and annual close."
+  },
+  {
+    "id": "HR-004",
+    "category": "Leave Policy",
+    "question": "What is the maternity and paternity leave policy?",
+    "answer": "Maternity leave: 26 weeks of fully paid leave for the first two children (as per the Maternity Benefit Act, 2017 for India-based employees). For the third child onwards: 12 weeks. Leave can begin up to 8 weeks before the expected delivery date. Commissioning and adoptive mothers (child under 3 months) are entitled to 12 weeks. Paternity leave: 2 weeks (10 working days) of fully paid leave, to be taken within 6 months of the child's birth or adoption. Both parents must have completed at least 12 months of continuous service. Apply via Workday and notify HR at least 8 weeks before the expected date. Benefits (insurance, 401k/PF contributions) continue during parental leave. Gradual return-to-work and flexible hours available for 3 months post-return — discuss with your HR Business Partner."
+  },
+  {
+    "id": "HR-005",
+    "category": "Leave Policy",
+    "question": "What is compensatory off (comp-off) and how do I avail it?",
+    "answer": "Compensatory off is granted when an employee works on a public holiday or a weekend at the explicit request of their manager. Rules: Comp-off must be pre-approved by your manager before working on the holiday/weekend. The comp-off must be availed within 30 days of the date earned — it lapses after that. Apply for comp-off via Workday > Leave > 'Compensatory Off'. Attach the manager's approval email. Maximum 2 comp-offs can be accumulated at any time. Comp-offs cannot be encashed. Night-shift employees: Different rules may apply — check with your HR Business Partner."
+  },
+  {
+    "id": "HR-006",
+    "category": "WFH & Remote Work",
+    "question": "What is NovaTech's work-from-home (WFH) policy?",
+    "answer": "NovaTech supports a hybrid work model. Standard arrangement: 3 days in-office (Tuesday, Wednesday, Thursday) and 2 days WFH (Monday and Friday). Eligibility: All confirmed full-time employees. Probationary employees must work from office for the first 90 days. Fully remote positions require Director-level approval and are reviewed annually. Requirements for WFH days: Stable internet connection (minimum 25 Mbps download/5 Mbps upload), a dedicated workspace, availability during core hours (10:00 AM - 4:00 PM IST), VPN connected when accessing internal systems. WFH is not a substitute for sick leave or childcare. If you're unwell, apply for sick leave. International WFH (working from outside India for more than 14 days) requires Legal and Tax review — submit a request through HR at least 30 days in advance."
+  },
+  {
+    "id": "HR-007",
+    "category": "Reimbursement",
+    "question": "How do I submit a reimbursement claim?",
+    "answer": "Submit reimbursement claims via Workday > Expenses > 'Create Expense Report'. Steps: 1) Select the expense category (Travel, Meals, Remote Setup, Learning, etc.) 2) Enter the amount and date 3) Upload an itemized receipt (photo or PDF) — required for all expenses above INR 500 / USD 25 4) Add business justification 5) Submit for manager approval. Processing time: 7-10 business days after approval; reimbursed in the next payroll cycle. Key limits: Meals — Breakfast INR 500, Lunch INR 800, Dinner INR 1,200 (alcohol not covered). Mileage — INR 12/km. Hotels — Up to INR 5,000/night domestic. Claims must be submitted within 60 days of the expense. Late claims (60-90 days) need VP approval. Claims older than 90 days are rejected."
+  },
+  {
+    "id": "HR-008",
+    "category": "Benefits",
+    "question": "What health insurance plans does NovaTech offer?",
+    "answer": "NovaTech offers group health insurance through Star Health (India) / Aetna (US). Coverage: Employee + spouse + up to 2 children + parents (optional top-up). Three plans available: 1) Basic: INR 3L / USD 5K sum insured. Company-paid — zero employee contribution. Covers hospitalisation, day-care procedures, ambulance. 2) Enhanced: INR 5L / USD 10K sum insured. Employee contribution: INR 200/month. Adds dental, vision, and OPD cover. 3) Premium: INR 10L / USD 20K sum insured. Employee contribution: INR 500/month. Adds maternity, mental health sessions (12/year), and international emergency cover. Enrolment: During Open Enrolment (November 1-30) or within 30 days of a qualifying life event (marriage, birth, adoption). Claims: Cashless at network hospitals or reimbursement via the insurer's app. Pre-existing conditions covered after 2 years. Download your insurance card from the HR Portal."
+  },
+  {
+    "id": "HR-009",
+    "category": "Benefits",
+    "question": "What is NovaTech's 401(k) or Provident Fund policy?",
+    "answer": "India employees — Provident Fund (PF): Both employee and employer contribute 12% of basic salary to EPF (Employee Provident Fund) as per statutory requirements. VPF (Voluntary PF) contributions above 12% are allowed — update via Workday > Benefits > 'PF Preferences'. PF is fully portable via UAN. US employees — 401(k): NovaTech matches 100% of the first 4% of salary contributed, plus 50% of the next 2% (maximum company match: 5% of salary). Vesting: Employee contributions vest immediately. Company match follows a 3-year cliff vesting schedule. Eligible from Day 1 of employment. Manage your 401(k) via Fidelity NetBenefits at https://netbenefits.fidelity.com. Both traditional (pre-tax) and Roth (after-tax) options are available."
+  },
+  {
+    "id": "HR-010",
+    "category": "Benefits",
+    "question": "Does NovaTech offer an Employee Assistance Programme (EAP)?",
+    "answer": "Yes. NovaTech provides a confidential Employee Assistance Programme through ComPsych. Benefits: 8 free counselling sessions per year per employee (individual, couples, or family). Available 24/7 via phone: 1-800-555-0199 (India) or 1-800-555-0200 (US). Covers: stress, anxiety, depression, relationship issues, grief, substance abuse, financial counselling, and legal consultation. All sessions are 100% confidential — NovaTech does not receive any individual-level information. Virtual and in-person sessions available. Additionally, NovaTech offers 2 mental health days per year (no documentation required) — log them as 'Mental Health Day' in Workday."
+  },
+  {
+    "id": "HR-011",
+    "category": "Benefits",
+    "question": "What wellness benefits does NovaTech offer?",
+    "answer": "NovaTech Wellness Programme includes: 1) Gym/fitness reimbursement: Up to INR 2,000/month or USD 75/month — submit receipts via Workday > Expenses > 'Wellness'. Covers gym memberships, yoga classes, swimming, sports club fees. 2) Annual health check-up: Free on-site screening every October. Or reimburse an external check-up up to INR 5,000. 3) Ergonomic assessment: Request a workstation evaluation via HR portal — available for both office and home setups. 4) Wellness challenges: Quarterly step challenges, meditation streaks, and fitness contests with prizes (gift cards, extra PTO). 5) Healthy snacks and beverages in all office pantries. 6) Nap rooms available on Floor 2 (30-minute slots, book via the NovaTech Office app)."
+  },
+  {
+    "id": "HR-012",
+    "category": "Code of Conduct",
+    "question": "What is NovaTech's code of conduct?",
+    "answer": "All employees must adhere to NovaTech's Code of Conduct, signed during onboarding and renewed annually. Core principles: 1) Act with integrity and honesty in all business dealings. 2) Treat every colleague, customer, and partner with respect and dignity. 3) Maintain confidentiality of proprietary information, customer data, and trade secrets. 4) Avoid conflicts of interest — disclose any outside employment, investments, or relationships that may conflict. 5) Comply with all applicable local and national laws. 6) Protect company assets and use them responsibly. Violations should be reported through: your manager, your HR Business Partner, or the Ethics Hotline at 1-800-555-0100 (anonymous) or ethics@novatech.com. NovaTech enforces a strict non-retaliation policy for good-faith reports."
+  },
+  {
+    "id": "HR-013",
+    "category": "Anti-Harassment",
+    "question": "What is NovaTech's anti-harassment policy?",
+    "answer": "NovaTech has zero tolerance for harassment, bullying, or discrimination of any kind — whether based on gender, race, religion, caste, age, disability, sexual orientation, or any other protected characteristic. This policy applies to all interactions: in-office, remote, at company events, and on company communication channels (Slack, email, Teams). What constitutes harassment: unwelcome physical contact, sexual advances, offensive jokes or comments, intimidation, cyber-bullying, creating a hostile work environment. Reporting: Contact the Internal Complaints Committee (ICC) at icc@novatech.com, or use the anonymous Ethics Hotline (1-800-555-0100). An ICC member will acknowledge receipt within 48 hours. Investigation is completed within 90 days. Strict confidentiality is maintained throughout the process. Disciplinary action ranges from a formal warning to termination, depending on severity."
+  },
+  {
+    "id": "HR-014",
+    "category": "Performance & Growth",
+    "question": "How does the performance review cycle work at NovaTech?",
+    "answer": "NovaTech conducts semi-annual performance reviews: Mid-Year Review (June 15 - July 15) and Annual Review (December 15 - January 15). Process: 1) Self-assessment: Complete in Workday by the 20th of the review month. 2) Peer feedback: Nominate up to 3 peers for 360-degree feedback (optional but encouraged). 3) Manager assessment: Your manager completes their evaluation by month-end. 4) Calibration: Department heads align ratings across teams. 5) Review meeting: 1:1 discussion with your manager. Rating scale: 1-Needs Improvement, 2-Developing, 3-Meets Expectations, 4-Exceeds Expectations, 5-Exceptional. Annual ratings influence: merit increases (typically 5-15%), annual bonus (target 10-20% of CTC), and promotion eligibility. 30/60/90-day goals are set for new employees during onboarding."
+  },
+  {
+    "id": "HR-015",
+    "category": "Performance & Growth",
+    "question": "What learning and development opportunities are available?",
+    "answer": "NovaTech invests in employee growth with a learning budget of INR 50,000 / USD 3,000 per employee per year. This covers: conferences, courses, certifications, books, and online learning subscriptions. Approval process: Submit a request via Workday > Learning > 'Development Request' with business justification and cost estimate. Manager approval required; VP approval for amounts exceeding INR 25,000 / USD 1,500. Available resources: LinkedIn Learning — free for all employees (login via SSO). Internal mentorship programme — applications open in January and July (6-month cycles). Leadership Development Programme — for manager-track employees (nomination by Director required). Brown bag sessions every Thursday 12:30 PM in the Main Auditorium (recorded and posted on Confluence). Certifications (AWS, GCP, PMP, SHRM, CFA, etc.) are fully reimbursed upon passing."
+  },
+  {
+    "id": "HR-016",
+    "category": "Onboarding",
+    "question": "What do I do on my first day at NovaTech?",
+    "answer": "Welcome to NovaTech! Here's your Day 1 checklist: 1) Arrive at the office by 9:30 AM. Report to the reception desk at Building A lobby. 2) Collect your access badge from Security (bring a government-issued photo ID). 3) Attend the Welcome Session at 10:00 AM in HR Conference Room B (covers company overview, values, benefits, and policies). 4) Collect your laptop and accessories from the IT Store (Room 105, Building A). Your IT Buddy will help you set up. 5) Complete benefits enrolment walkthrough with HR (health insurance, PF/401k). 6) Office tour with your Onboarding Buddy. 7) 1:1 lunch with your manager. 8) Set up your corporate accounts: email, Slack, Teams, VPN, MFA. 9) Complete mandatory Day-1 training modules on the NovaTech Learning Portal: Security Awareness (30 min), Code of Conduct (20 min), Data Privacy (20 min), Anti-Harassment (30 min). 10) End-of-day check-in with your manager to review Week 1 schedule."
+  },
+  {
+    "id": "HR-017",
+    "category": "Onboarding",
+    "question": "When will I receive my laptop and IT equipment?",
+    "answer": "Your laptop and standard IT equipment are provisioned before your start date and ready for collection on Day 1 from the IT Store (Building A, Room 105, open 9 AM - 4 PM). Standard kit: Laptop (Dell Latitude 5550 or MacBook Pro 14-inch M4, depending on your role), 27-inch external monitor, wireless keyboard and mouse, USB-C hub, and a noise-cancelling headset. Your IT Buddy (assigned during onboarding) will help you set up your machine, install required software, configure email, VPN, and MFA. If your start date is remote, your equipment will be shipped to your address 3-5 days before your start date. Track the shipment via the link sent to your personal email."
+  },
+  {
+    "id": "HR-018",
+    "category": "Onboarding",
+    "question": "How do I enrol in health insurance and benefits?",
+    "answer": "Benefits enrolment happens during your first week at NovaTech. During the Day 1 Welcome Session, HR will walk you through the available plans. Steps: 1) Log in to Workday > Benefits > 'Benefits Enrolment' 2) Choose your health insurance plan (Basic, Enhanced, or Premium — see HR-008 for details) 3) Add dependents (spouse, children, parents) with their Aadhaar/SSN and date of birth 4) Select your PF/401k contribution percentage 5) Nominate beneficiaries for life insurance and gratuity 6) Submit by end of Week 1. If you miss the enrolment window, you'll need to wait until the next Open Enrolment period (November 1-30) or have a qualifying life event. Your insurance coverage begins from your date of joining. E-insurance cards are available on the HR Portal within 5 business days of enrolment."
+  },
+  {
+    "id": "HR-019",
+    "category": "Onboarding",
+    "question": "What is the buddy programme at NovaTech?",
+    "answer": "Every new employee at NovaTech is paired with an Onboarding Buddy for the first 90 days. Your buddy is a tenured colleague (at least 1 year at NovaTech) from a team adjacent to yours. They are not your manager. Your buddy helps with: navigating the office, understanding team culture, connecting you with the right people, answering day-to-day questions, and making you feel at home. Buddy expectations: Minimum 1 coffee chat per week for the first month, then bi-weekly. Your buddy is not responsible for your work deliverables or performance review. After 90 days, you can continue the relationship informally. If you'd like to switch buddies for any reason, email hr-onboarding@novatech.com — no questions asked."
+  },
+  {
+    "id": "HR-020",
+    "category": "Onboarding",
+    "question": "What is the probation period and confirmation process?",
+    "answer": "All new employees at NovaTech go through a 6-month probation period. During probation: Your notice period is 1 month (vs. 2 months for confirmed employees). You are eligible for CLs and SLs from Day 1. ELs accrue but can only be used after confirmation. You'll have a 30-day, 60-day, and 90-day check-in with your manager to review progress against your onboarding goals. At the end of 6 months, your manager submits a confirmation recommendation. If confirmed: You receive a confirmation letter, your notice period becomes 2 months, and EL usage is unlocked. If probation is extended: You'll receive clear feedback and an action plan for 1-3 months. If not confirmed: HR will communicate with appropriate notice."
+  },
+  {
+    "id": "HR-021",
+    "category": "Payroll",
+    "question": "When is payday at NovaTech?",
+    "answer": "NovaTech pays salaries monthly on the last working day of each month. If the last day falls on a weekend or bank holiday, salary is credited on the preceding working day. Direct deposit is mandatory — set up your bank account via Workday > Pay > 'Payment Elections' during your first week. Pay stubs are available in Workday > Pay > 'Payslips' by the 1st of the following month. Components visible on your payslip: Basic salary, HRA (India), special allowance, PF contribution (employee + employer), professional tax, TDS/income tax deduction, and any reimbursements. For payroll discrepancies, email payroll@novatech.com within 5 business days of the affected pay date."
+  },
+  {
+    "id": "HR-022",
+    "category": "Payroll",
+    "question": "How do I submit my tax declaration or update tax-saving investments?",
+    "answer": "Tax declaration at NovaTech (India employees): 1) At the start of each financial year (April), submit your tax declaration via Workday > Pay > 'Tax Declaration'. 2) Declare investments under Section 80C (PF, PPF, ELSS, LIC, tuition fees — up to INR 1.5L), 80D (health insurance premiums), 80CCD(1B) (NPS — additional INR 50K), HRA exemption (if applicable), and other eligible deductions. 3) If you choose the new tax regime, no declarations are needed. 4) Proof of investments must be uploaded by January 31st each year — otherwise, TDS will be adjusted in the February and March payroll. US employees: W-4 form is submitted during onboarding. Update via Workday > Pay > 'Tax Withholding'. W-2 forms are available by January 31st each year."
+  },
+  {
+    "id": "HR-023",
+    "category": "Payroll",
+    "question": "How is my salary structured at NovaTech?",
+    "answer": "NovaTech salary structure (India, typical breakdown): Basic Salary: 40-50% of CTC. HRA (House Rent Allowance): 40-50% of basic. Special Allowance: Flexible component. Employer PF contribution: 12% of basic. Gratuity: 4.81% of basic (payable after 5 years). Group insurance premium: Company-paid. Meal vouchers (optional): Up to INR 2,200/month (tax-free). NPS contribution (optional): Up to 10% of basic (tax-deductible). Variable pay/bonus: 10-20% of CTC (paid annually based on performance rating and company performance). US employees: Base salary + annual bonus + 401(k) match + RSUs (for eligible levels). Offer letters detail the full CTC/compensation breakdown. View your current structure in Workday > Pay > 'Compensation'."
+  },
+  {
+    "id": "HR-024",
+    "category": "Payroll",
+    "question": "How does stock option (ESOP) vesting work at NovaTech?",
+    "answer": "NovaTech offers ESOPs to employees at Manager level and above (and selectively to high-performing individual contributors). Vesting schedule: 4-year vesting with a 1-year cliff. 25% vests after 12 months (cliff), then the remaining 75% vests monthly over the next 36 months. Grant details are in your ESOP grant letter (available on Workday > Compensation > 'Stock'). Exercise window: 90 days after separation (for voluntary exits). Vested options can be exercised during the annual exercise window (March 1-31) or upon a liquidity event. Tax implications: Taxed as perquisite at exercise (India) or at exercise with potential capital gains at sale (US). Consult your tax advisor for personal tax planning. Questions about your grant: email esop@novatech.com."
+  },
+  {
+    "id": "HR-025",
+    "category": "Offboarding",
+    "question": "What is the resignation and offboarding process?",
+    "answer": "To resign from NovaTech: 1) Submit a written resignation letter to your manager and HR via email. 2) Log the resignation in Workday > Career > 'Resign'. Notice period: 1 month (probationary employees), 2 months (confirmed employees). Notice period buyout is at the company's discretion. During the notice period: Complete knowledge transfer (document ongoing projects, hand over access, train your replacement). Return all company property: laptop, monitor, badge, parking pass, corporate credit card. IT will revoke system access on your last working day. Exit interview: Scheduled by HR in your final week (optional but encouraged). Final settlement (within 45 days of last working day): Remaining salary, unused EL encashment (up to 30 days), prorated bonus (if applicable), gratuity (if applicable — after 5 years). Health insurance continues through the last day of the month of departure."
+  },
+  {
+    "id": "HR-026",
+    "category": "Company Holidays",
+    "question": "What are the company holidays at NovaTech?",
+    "answer": "NovaTech observes the following paid holidays annually (India, 2026): Republic Day (Jan 26), Holi (Mar 17), Good Friday (Apr 3), May Day (May 1), Independence Day (Aug 15), Gandhi Jayanti (Oct 2), Dussehra (Oct 12), Diwali (Oct 31 and Nov 1), Christmas (Dec 25). Additionally, 2 floating holidays are provided — employees can choose any 2 days based on personal/religious observance. Apply for floating holidays via Workday > Leave > 'Floating Holiday' at least 3 days in advance. US employees: New Year's Day, MLK Day, Presidents' Day, Memorial Day, Independence Day, Labor Day, Thanksgiving (2 days), Christmas. The full holiday calendar is published on the HR Portal by November 15th each year."
+  },
+  {
+    "id": "HR-027",
+    "category": "Policies",
+    "question": "What is NovaTech's policy on outside employment or freelancing?",
+    "answer": "NovaTech employees may engage in outside employment, freelancing, or consulting ONLY with prior written approval from their manager and HR. Conditions: The outside work must not conflict with NovaTech's business interests, compete with NovaTech, or use NovaTech resources (time, equipment, IP). Disclosure: Submit a 'Conflict of Interest Declaration' via Workday > Compliance > 'Outside Activity'. This is reviewed annually. Board positions, advisory roles, and teaching engagements must also be disclosed. Violation of this policy may result in disciplinary action up to and including termination. Open-source contributions to non-competing projects are generally encouraged and do not require approval."
+  }
+]

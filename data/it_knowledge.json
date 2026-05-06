@@ -1,0 +1,104 @@
+[
+  {
+    "id": "IT-001",
+    "category": "Password & Authentication",
+    "question": "How do I reset my password?",
+    "answer": "To reset your corporate password: 1) Visit the Self-Service Password Portal at https://passwords.novatech.com 2) Click 'Forgot Password' 3) Enter your employee ID (format: NT-XXXXX) 4) Verify your identity via the OTP sent to your registered mobile number or email 5) Create a new password meeting these requirements: minimum 14 characters, at least one uppercase letter, one lowercase letter, one digit, and one special character (!@#$%^&*). Passwords expire every 90 days. You will receive a reminder 7 days before expiry. After 5 consecutive failed login attempts, your account will be locked for 30 minutes. If you are locked out, contact the IT Help Desk at ext. 2020 or helpdesk@novatech.com."
+  },
+  {
+    "id": "IT-002",
+    "category": "Password & Authentication",
+    "question": "How do I set up Multi-Factor Authentication (MFA)?",
+    "answer": "All NovaTech employees must enable MFA on their corporate accounts within the first 48 hours of joining. Supported MFA methods: 1) Microsoft Authenticator app (recommended) 2) Google Authenticator 3) SMS-based OTP (backup only) 4) Hardware security key (YubiKey 5 NFC — available from IT Store for critical roles). Setup steps: Go to https://mfa.novatech.com > Sign in with your corporate credentials > Click 'Add Authentication Method' > Follow the on-screen prompts for your chosen method. MFA is required for: VPN access, email on personal devices, all cloud applications (Slack, Jira, Confluence), and the HR portal. If you lose your MFA device, contact the IT Help Desk immediately at ext. 2020 for a temporary bypass code valid for 24 hours."
+  },
+  {
+    "id": "IT-003",
+    "category": "VPN & Remote Access",
+    "question": "How do I connect to the VPN?",
+    "answer": "NovaTech uses Cisco AnyConnect Secure Mobility Client for VPN access. Setup: 1) Download Cisco AnyConnect from https://vpn.novatech.com (the page will auto-detect your OS) 2) Install and launch AnyConnect 3) Enter server address: vpn.novatech.com 4) Authenticate with your corporate username, password, and MFA code. Supported operating systems: Windows 10/11, macOS 13+, Ubuntu 22.04+. VPN is required to access internal tools (Jira, Confluence, GitLab, internal wikis) from outside the office. Split tunnelling is enabled — only corporate traffic routes through VPN. Connection tips: Use a stable internet connection (minimum 10 Mbps recommended). If your ISP blocks VPN ports, try switching to a mobile hotspot temporarily."
+  },
+  {
+    "id": "IT-004",
+    "category": "VPN & Remote Access",
+    "question": "What do I do if VPN is not connecting or keeps disconnecting?",
+    "answer": "Common VPN issues and fixes: 1) 'Authentication Failed' — Ensure your password hasn't expired and MFA is active. Try resetting your password at https://passwords.novatech.com. 2) 'Connection attempt has timed out' — Try the backup VPN gateway: vpn2.novatech.com. 3) Frequent disconnections — Flush your DNS cache: run 'ipconfig /flushdns' on Windows or 'sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder' on Mac. Switch to a wired connection if on Wi-Fi. 4) 'Unable to establish VPN' — Uninstall AnyConnect, restart your machine, and reinstall from https://vpn.novatech.com/download. 5) Still not working — Contact IT Help Desk at ext. 2020 with your OS version and the exact error message."
+  },
+  {
+    "id": "IT-005",
+    "category": "Software Installation",
+    "question": "How do I request a software installation or licence?",
+    "answer": "All software installations at NovaTech must go through the NovaTech Software Center. Access it via Start Menu > NovaTech Software Center (Windows) or Applications > Managed Software Center (Mac). Pre-approved software (VS Code, Postman, Zoom, Slack, Chrome, Firefox, 7-Zip, etc.) can be installed immediately by clicking 'Install' in the Software Center. Non-standard software requires a request: 1) Go to the IT Service Portal at https://serviceportal.novatech.com 2) Click 'New Request' > 'Software Installation' 3) Provide: software name, version, business justification, and whether a licence purchase is needed. Manager approval is required for all non-standard requests. Security review takes 3-5 business days. Licensed software (e.g., Adobe Creative Suite, IntelliJ Ultimate) requires VP-level budget approval."
+  },
+  {
+    "id": "IT-006",
+    "category": "Software Installation",
+    "question": "How do I install or troubleshoot Microsoft 365 applications?",
+    "answer": "All NovaTech employees have Microsoft 365 E3 licences including Outlook, Teams, Word, Excel, PowerPoint, OneDrive (1 TB), and SharePoint. Access the web versions at https://portal.office.com with your corporate credentials. Desktop installation: Go to https://portal.office.com > Click 'Install Microsoft 365' (top right) > Run the installer. You can install on up to 5 personal devices. Common troubleshooting: 1) Outlook not syncing — Remove and re-add your account in Outlook Settings > Accounts. 2) Teams video/audio not working — Go to Settings > Devices and check camera/microphone permissions. 3) OneDrive sync paused — Click the OneDrive icon in the system tray > 'Resume syncing'. 4) Licence activation error — Sign out of all Office apps, clear credentials from Windows Credential Manager, restart, and sign in again."
+  },
+  {
+    "id": "IT-007",
+    "category": "Email",
+    "question": "How do I configure my corporate email on my mobile phone?",
+    "answer": "NovaTech corporate email (firstname.lastname@novatech.com) is hosted on Microsoft Exchange Online. To set up on your mobile device: iPhone — Go to Settings > Mail > Accounts > Add Account > Microsoft Exchange > Enter your email and password > Enable Mail, Calendar, Contacts as needed. Android — Open Gmail app > Settings > Add Account > Exchange > Enter your email and password > Follow prompts. Important: MFA must be enabled before you can add email on a personal device. Your device must have a screen lock (PIN, fingerprint, or Face ID). The NovaTech MDM policy will be pushed to your device to enable remote wipe in case of loss. Max attachment size: 25 MB (use OneDrive sharing links for larger files). Email retention: 7 years. Deleted items auto-purge after 30 days."
+  },
+  {
+    "id": "IT-008",
+    "category": "Email",
+    "question": "How do I set up an email distribution list or shared mailbox?",
+    "answer": "Distribution lists are managed by department admins. To request a new distribution list: Email it-admin@novatech.com with the list name, members, and purpose. Turnaround: 1-2 business days. To request a shared mailbox (e.g., support@novatech.com, finance-team@novatech.com): Go to IT Service Portal > 'Email Services' > 'Shared Mailbox Request'. Provide: mailbox name, display name, list of members who need access, and manager approval. Shared mailboxes do not consume a licence. Email forwarding to personal email addresses (Gmail, Yahoo, etc.) is strictly prohibited per NovaTech security policy."
+  },
+  {
+    "id": "IT-009",
+    "category": "Hardware",
+    "question": "How do I request new hardware or IT equipment?",
+    "answer": "Standard equipment for new employees (provisioned automatically during onboarding): Laptop — Dell Latitude 5550 (standard) or MacBook Pro 14-inch M4 (for design, engineering, and data science roles). Accessories — 27-inch Dell UltraSharp monitor, wireless keyboard and mouse, USB-C hub, noise-cancelling headset. To request additional or replacement equipment: Go to IT Service Portal > 'Hardware Request'. Approval chain: Manager > IT > Procurement. Standard delivery: 5-7 business days. Monitors and peripherals can also be picked up from the IT Store (Building A, Room 105, open 9 AM - 4 PM weekdays). Laptops are covered by a 3-year warranty. For warranty repairs, log a ticket via the IT Service Portal. Out-of-warranty devices require a replacement request with manager approval."
+  },
+  {
+    "id": "IT-010",
+    "category": "Network & Wi-Fi",
+    "question": "How do I connect to the office Wi-Fi network?",
+    "answer": "NovaTech office Wi-Fi networks: 1) 'NOVATECH-CORP' — For employees. Auto-connects on domain-joined laptops. If prompted, use your corporate username and password. 2) 'NOVATECH-GUEST' — For visitors and contractors. Open a browser after connecting; you'll be redirected to a self-registration portal. Guest access is limited (no access to internal tools) and expires after 24 hours. Wired Ethernet: Plug in an Ethernet cable at any desk — DHCP will assign an IP automatically. If you have no network connectivity: Try running 'ipconfig /release' followed by 'ipconfig /renew' (Windows) or toggle Wi-Fi off and on. Check current network status at https://status.internal.novatech.com or call the Network Operations Centre (NOC) at ext. 2025."
+  },
+  {
+    "id": "IT-011",
+    "category": "Network & Wi-Fi",
+    "question": "How do I access guest Wi-Fi for visitors?",
+    "answer": "To set up Wi-Fi for a visitor or contractor: 1) Ask them to connect to the 'NOVATECH-GUEST' Wi-Fi network (no password required to connect). 2) A captive portal will open in their browser. 3) They must enter their name, email, and the name of their NovaTech host. 4) Access is granted for 24 hours with limited bandwidth (no access to internal systems, Jira, GitLab, etc.). 5) For visitors needing access to internal systems, the host employee must submit a 'Temporary Network Access' request via the IT Service Portal at least 2 business days in advance. This requires manager approval and is limited to 30 days."
+  },
+  {
+    "id": "IT-012",
+    "category": "Security",
+    "question": "What should I do if I receive a suspicious or phishing email?",
+    "answer": "If you suspect a phishing email: 1) Do NOT click any links, download attachments, or reply. 2) Use the 'Report Phishing' button in the Outlook ribbon toolbar — this forwards the email to the Security Operations Centre (SOC) for analysis. 3) If you accidentally clicked a link or entered credentials: Immediately change your password at https://passwords.novatech.com, then contact IT Security at security@novatech.com or ext. 2021. 4) If you downloaded a suspicious attachment: Disconnect from the network (unplug Ethernet / disable Wi-Fi) and call ext. 2021 immediately. All employees must complete the annual Cybersecurity Awareness Training by December 31st via the NovaTech Learning Portal. USB drives from external sources are automatically blocked by endpoint protection software."
+  },
+  {
+    "id": "IT-013",
+    "category": "Security",
+    "question": "What is NovaTech's data classification and handling policy?",
+    "answer": "NovaTech classifies data into four levels: 1) Public — Marketing materials, blog posts. No restrictions. 2) Internal — Company announcements, org charts. Share only within NovaTech. 3) Confidential — Customer data, financial reports, source code. Encrypted storage required; sharing only with authorised personnel via approved tools (OneDrive, SharePoint). No personal email or USB. 4) Restricted — PII, credentials, legal documents. Encrypted storage and transit mandatory; access logged and audited; sharing requires VP approval. All employees must tag documents with the appropriate classification label in SharePoint/OneDrive. Violations are reported to the Data Protection Officer (dpo@novatech.com) and may result in disciplinary action."
+  },
+  {
+    "id": "IT-014",
+    "category": "Printing",
+    "question": "How do I set up a network printer?",
+    "answer": "Network printers are auto-configured on company-managed laptops. If a printer is not showing up: Go to Settings > Printers & Scanners > Add Printer > Search for the printer name. Printer naming convention: PRN-[FLOOR]-[WING]. For example, PRN-2-NORTH is on the 2nd floor, north wing. Default printers by floor: Floor 1: PRN-1-MAIN, Floor 2: PRN-2-NORTH and PRN-2-SOUTH, Floor 3: PRN-3-EAST and PRN-3-WEST. Colour printing is available on all printers but is tracked. For paper jams, low toner, or hardware issues, contact Facilities at ext. 3030. For print queue or driver issues, submit an IT ticket. NovaTech encourages digital-first — please print only when necessary."
+  },
+  {
+    "id": "IT-015",
+    "category": "Accounts & Access",
+    "question": "How do I request access to a specific application or system?",
+    "answer": "Standard access (email, Teams, Slack, SharePoint, OneDrive) is provisioned automatically during onboarding. For additional application access (Jira, Confluence, GitLab, Salesforce, SAP, Tableau, AWS Console, etc.): 1) Go to IT Service Portal > 'Access Request' 2) Select the application 3) Choose the role/permission level needed 4) Provide business justification 5) Submit — your manager will receive an approval request. Processing time: 1-3 business days after manager approval. For temporary/contractor access: Same process, but with an end date. Access is auto-revoked on the specified date. Quarterly access reviews are conducted — unused access is revoked. For emergency/urgent access, call the IT Help Desk at ext. 2020."
+  },
+  {
+    "id": "IT-016",
+    "category": "Accounts & Access",
+    "question": "My account is locked. What should I do?",
+    "answer": "Account lockouts happen after 5 consecutive failed login attempts. Your account will automatically unlock after 30 minutes. If you need immediate access: 1) Visit https://passwords.novatech.com and reset your password (this also unlocks the account). 2) If the self-service portal is not working, call the IT Help Desk at ext. 2020 (available 24/7) for manual unlock. 3) After unlocking, check if your password was compromised by verifying recent login activity at https://mysignins.novatech.com. If you see logins from unfamiliar locations or devices, report it to security@novatech.com immediately. Common causes of lockouts: cached/saved old passwords on mobile devices, browser auto-fill with expired credentials, or VPN client storing old credentials."
+  },
+  {
+    "id": "IT-017",
+    "category": "Remote Work IT",
+    "question": "What IT support is available for remote workers?",
+    "answer": "Remote workers at NovaTech receive: 1) Company laptop (same spec as in-office employees) 2) One-time monitor reimbursement up to INR 15,000 / USD 400 (submit receipt via Workday > Expenses > 'Remote Setup') 3) Monthly internet stipend of INR 1,500 / USD 50 (auto-added to payroll — no submission needed) 4) Ergonomic accessories: Request keyboard, mouse, or headset via IT Service Portal > 'Remote Equipment'. Remote IT support is available via: Phone (ext. 2020), Email (helpdesk@novatech.com), Slack (#it-helpdesk channel), Remote desktop assistance (IT can remotely connect to troubleshoot with your permission). VPN must be connected to access all internal systems from home."
+  }
+]
