@@ -361,6 +361,3 @@ decoupled from the UI.
 | **Bonus**: Multi-agent | ✅ | Separate IT + HR sub-agents with parallel dispatch |
 | **Bonus**: 44-article KB | ✅ | Both domains, deliberate gaps, structured format |
 
-## License
-
-MIT
